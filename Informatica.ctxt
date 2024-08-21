@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Informatica
+comment0.text=\r\n\ A\ classe\ Informatica,\ representa\ uma\ loja\ de\ Informatica.\r\n\ \r\n\ @author\ (Clayton\ Miranda\ dos\ Santos)\ \r\n\ @version\ (16/06/24)\r\n
+comment1.params=nome\ quantidadeFuncionarios\ salarioBaseFuncionario\ endereco\ dataFundacao\ seguroEletronicos\ estoqueProdutos
+comment1.target=Informatica(java.lang.String,\ int,\ int,\ Endereco,\ Data,\ int,\ int)
+comment2.params=
+comment2.target=double\ getSeguroEletronicos()
+comment3.params=seguroEletronicos
+comment3.target=void\ setSeguroEletronicos(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
